@@ -1,0 +1,1 @@
+/usr/bin/c++   -fno-exceptions -fno-rtti  -rdynamic CMakeFiles/version_set_test.dir/util/testharness.cc.o CMakeFiles/version_set_test.dir/util/testutil.cc.o CMakeFiles/version_set_test.dir/db/version_set_test.cc.o  -o version_set_test libleveldb.a -lsnappy -ltcmalloc -lpthread 

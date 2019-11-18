@@ -1,0 +1,1 @@
+/usr/bin/c++   -fno-exceptions -fno-rtti  -rdynamic CMakeFiles/test_code.dir/test_code.cc.o  -o test_code ../libleveldb.a -lsnappy -ltcmalloc -lpthread 
